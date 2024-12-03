@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>form</title>
+</head>
+<body>
+    <h1>Forms</h1>
+
+    <form action="Database.html">
+
+
+        <div>
+            <label for="image">Image here : </label>
+            <input type="file" id="image" accept=".png,.jpg,.pdf">
+        </div> <br>
+
+        <div>
+            <label for="range">Difficulty Level : </label>
+            <input type="range" value="100" id="range">
+        </div><br>
+
+        <div>
+            <label for="YourName">Name :</label>
+            <input type="text" id="YourName" placeholder="Enter Your name" required>
+        </div> <br>
+        
+        <div>
+            <label for="YourPass">Password : </label>
+            <input type="password" id="YourPass" placeholder="Enter your password" required minlength="6" maxlength="10"> <br>
+        </div> <br>
+        
+
+        <div>
+            <label for="YourEmail">Email :</label>
+            <input type="email" id="YourEmail" placeholder="Enter Your Email" >
+        </div> <br>
+
+
+        <div>
+            <label for="date">Tareek : </label>
+            <input type="date" id="date">
+        </div> <br>
+
+        <div>
+            <label for="">Gender : </label>
+            <input type="radio" name="gender" value="male"> Male
+            <input type="radio" name="gender" value="female"> female
+            <input type="radio" name="gender" value="other"> Other
+        </div> <br>
+
+        <div>
+            <label for="">Your mobile no. : </label>
+            <input type="number" placeholder="+91XXXXXXXXX">
+        </div> <br>
+
+        <div>
+            <label for="">Are You 18+ : </label>
+            <input type="checkbox" checked>
+        </div> <br>
+
+
+        <div>
+            <textarea name="Feedback" id="" cols="30" rows="7" placeholder="Your Feedback"></textarea>
+        </div> <br>
+
+        <div>
+            <label for="">Movie Category</label>
+            <select>
+                <option value=""></option>
+                <option value="Action">Action</option>
+                <option value="Romance">Romance</option>
+                <option value="Comedy">Comedy</option>
+            </select>
+        </div> <br>
+
+       
+        <button type="reset">Reset</button>
+        <button type="submit">Submit</button>
+
+
+
+    </form>
+
+
+
+</body>
+</html>
