@@ -123,7 +123,14 @@ Position ?
 5.Stickey -> the element will be sticky related to its parent(Relative)
 
 
+===================================================================================
+Units
 
+1. px -> digital screens -> pixel -> rgb -> ppi -> static
+2. %  -> percent  -> according parent
+3. vh -> viewport height -> screen
+4. vw -> viewport width -> screen
+5. rem -> 1 rem => 16px  -> screen -> root 
 
 
 
