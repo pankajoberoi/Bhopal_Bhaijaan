@@ -1,0 +1,143 @@
+DEVELOPMENT -> WEB Applications (Websites)
+
+HTML -> Hyper text markup language ( Structure)
+
+CSS -> Cascading Style Sheets (Style)
+
+JS -> JAVASCRIPT (Logics)
+
+ReactJS -> Frontend 
+
+
+
+
+
+==============================================
+1. Tag <img>
+2. Attribute <img height=200,width=200>
+they provide us extra power to our tags
+3.Comments
+
+
+
+Block level elements/tags
+1.screen (whole width)
+2.next line
+
+
+Inline level elements/tags
+1.customized height width nhi lagti
+2.it works according to content
+3.inline level tags aquire remaining spaces on screen
+4.span tags will aquire width of children tags
+
+
+
+
+List > Unordered > ordered
+
+
+Types of SELECTORS
+
+ID
+1. we provide a name to a tag
+2. we use # to access a id
+3. id's name must be unique throughout the html document
+
+
+
+Classes
+1.we can provide a same name to multiple tags (grouping)
+2. we use . to access a id
+
+
+
+tag itself
+1. when we do styling on the name of the tag
+
+
+// attribute as a selector
+
+
+
+universal selector
+1. we write * a universal selector
+
+
+
+
+==============================================================================
+
+CSS -> Cascading Style sheets
+
+There Three Types of css available for implementation
+
+Property-name : Property value -> eg -> color:purple
+
+1.Inline CSS -> least prefered
+
+2.Internal CSS 
+
+3.External CSS
+
+
+========================================================
+Color 
+
+name -> color ka naam
+
+rgb -> red green blue rbg(256,256,256)
+
+hex -> #000000
+
+hsl -> hue(color pallet) saturation(intensity) light(dark/light)
+
+
+
+color : red -> text
+
+background-color : green -> background
+
+
+================================================================================
+Box-model ?
+
+1. Border 
+2.Padding-4 left,right,top,botton
+3.margin-4 left,right,top,botton
+
+==========================================================================
+display ?
+
+1.inline
+2.block
+3.inline-block
+
+======================================================================
+Position ?
+
+1.Static -> default -> position can not be changed
+2. Relative -> that child elements move according to there parent
+3.Absolute -> that child elements move according to there ancestor
+4.Fixed -> the element will be fixed related to its ancestor (absolute)
+5.Stickey -> the element will be sticky related to its parent(Relative)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
