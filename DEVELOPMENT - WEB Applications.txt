@@ -132,6 +132,31 @@ Units
 4. vw -> viewport width -> screen
 5. rem -> 1 rem => 16px  -> screen -> root 
 
+===============================================================================
+
+Flexbox -> layout -> display
+
+display -> flex
+flex-direction
+flex-wrap
+
+justify content -> start,end,center, (x axis)
+space-between -> the first and last item stick to border, and rest will divided equally
+space-evenly -> the items will be divided equally in available space(horizontally)
+space-around -> every item will get equal space around it (means left and right)
+
+align-items -> y-axis
+-> start,end,center
+
+
+align-content -> it works with wrapping
+-> start,end,center
+
+align-self -> move particular items
+-> start , center ,end
+
+
+
 
 
 
