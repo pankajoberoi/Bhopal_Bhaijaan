@@ -156,6 +156,16 @@ align-self -> move particular items
 -> start , center ,end
 
 
+=====================================================
+media queries -> our website responsive
+
+@media (screen size){
+    changes
+}
+
+Project -> navbar
+
+
 
 
 
