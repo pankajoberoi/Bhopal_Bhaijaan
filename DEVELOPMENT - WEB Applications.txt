@@ -165,6 +165,23 @@ media queries -> our website responsive
 
 Project -> navbar
 
+========================================================
+Transition
+
+Transition-Property
+Transition-duration
+Transition-delay
+Transition-timing-function
+short hand notation
+
+==========================================================
+Transform
+
+Rotate -> deg
+scale -> multiply hokar 
+skew -> deg
+translate -> px
+
 
 
 
