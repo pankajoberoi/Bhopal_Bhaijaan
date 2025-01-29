@@ -182,6 +182,15 @@ scale -> multiply hokar
 skew -> deg
 translate -> px
 
+=========================================================================
+Animations
+
+animation-name: firstAnimation;
+animation-duration: 3s;
+animation-iteration-count: infinite;
+animation-direction: alternate-reverse;
+animation-timing-function: ease-in-out;
+
 
 
 
